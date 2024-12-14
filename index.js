@@ -15,6 +15,31 @@ const questions = [
       correct: 1,
     },
     {
+        question: "Co było pierwsze?",
+        answers: ["Prada Milano", "Egzamin Lech", "Torba Max", "Szkolenie Online"],
+        correct: 2,
+    },
+    {
+        question: "Dokąd prowadzą wszystkie drogi?",
+        answers: ["Do Rzymu", "Na Czereśniową", "Do Legendii", "Na Wawel"],
+        correct: 3,
+    },
+    {
+        question: "Twój dom to...",
+        answers: ["Olio", "KFC", "Max Burgers", "Kebab King"],
+        correct: 0,
+    },
+    {
+        question: "Kto następnym razem gasi światło i otwiera i zamyka okno na wyjeździe?",
+        answers: ["Duch", "Maja", "Wojtek", "Obydwoje"],
+        correct: 2,
+    },
+    {
+        question: "Co jest moim żywiołem?",
+        answers: ["Woda", "Powietrze", "Ziemia", "Ogień"],
+        correct: 1,
+    },
+    {
       question: "Czy byłaś grzeczna w tym roku?",
       answers: ["Tak", "Nie", "Może", "Nie wiem"],
       isFinal: true,
@@ -37,7 +62,7 @@ const questions = [
         {
           text: "Nie wiem, ale warto próbować! 🤔",
           option1: { text: "Nie chcę prezentu", isCorrect: false },
-          option2: { text: "Przyjmę prezent!", isCorrect: true },
+          option2: { text: "Chcę prezent!", isCorrect: true },
         },
       ],
     },
