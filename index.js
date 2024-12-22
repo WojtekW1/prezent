@@ -30,6 +30,11 @@ const questions = [
         correct: 0,
     },
     {
+        question: "A od niedawna...",
+        answers: ["KFC", "Furore", "Max Burgers", "Kebab King"],
+        correct: 1,
+    },
+    {
         question: "Kto następnym razem gasi światło i otwiera i zamyka okno na wyjeździe?",
         answers: ["Duch", "Maja", "Wojtek", "Obydwoje"],
         correct: 2,
