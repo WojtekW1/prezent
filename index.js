@@ -5,7 +5,7 @@ const questions = [
       correct: 0,
     },
     {
-      question: "Ile jest nóg reniferów ciągnących sanie Świętego Mikołaja?",
+      question: "Ile reniferów ciągnie sanie Świętego Mikołaja?",
       answers: ["4", "6", "8", "12"],
       correct: 2,
     },
